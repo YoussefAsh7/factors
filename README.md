@@ -1,2 +1,2 @@
-# factot analysis project using python with factor analyzer
+# Factor analysis project using Python with factor analyzer
 
